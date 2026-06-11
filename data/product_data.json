@@ -1,0 +1,5207 @@
+{
+  "products": [
+    {
+      "code": "APOLK406CRMBGE",
+      "range": "Apollo",
+      "design": "CK406",
+      "c1": "Cream",
+      "c2": "Beige",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLK406CRMBGE0815",
+          "vdesc": "Apollo CK406 Cream/Beige - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLK406CRMBGE1217",
+          "vdesc": "Apollo CK406 Cream/Beige - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLK406CRMBGE1623",
+          "vdesc": "Apollo CK406 Cream/Beige - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLK406CRMBGE2029",
+          "vdesc": "Apollo CK406 Cream/Beige - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLK406GRYGLD",
+      "range": "Apollo",
+      "design": "CK406",
+      "c1": "Grey",
+      "c2": "Gold",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLK406GRYGLD0815",
+          "vdesc": "Apollo CK406 Grey/Gold - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLK406GRYGLD1217",
+          "vdesc": "Apollo CK406 Grey/Gold - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLK406GRYGLD1623",
+          "vdesc": "Apollo CK406 Grey/Gold - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLK406GRYGLD2029",
+          "vdesc": "Apollo CK406 Grey/Gold - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLK406GRYGRN",
+      "range": "Apollo",
+      "design": "CK406",
+      "c1": "Grey",
+      "c2": "Green",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLK406GRYGRN0815",
+          "vdesc": "Apollo CK406 Grey/Green - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLK406GRYGRN1217",
+          "vdesc": "Apollo CK406 Grey/Green - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLK406GRYGRN1623",
+          "vdesc": "Apollo CK406 Grey/Green - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLK406GRYGRN2029",
+          "vdesc": "Apollo CK406 Grey/Green - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLK406GRYNAV",
+      "range": "Apollo",
+      "design": "CK406",
+      "c1": "Grey",
+      "c2": "Navy",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLK406GRYNAV0815",
+          "vdesc": "Apollo CK406 Grey/Navy - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLK406GRYNAV1217",
+          "vdesc": "Apollo CK406 Grey/Navy - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLK406GRYNAV1623",
+          "vdesc": "Apollo CK406 Grey/Navy - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLK406GRYNAV2029",
+          "vdesc": "Apollo CK406 Grey/Navy - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLK406GRYSLV",
+      "range": "Apollo",
+      "design": "CK406",
+      "c1": "Grey",
+      "c2": "Silver",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLK406GRYSLV0815",
+          "vdesc": "Apollo CK406 Grey/Silver - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLK406GRYSLV1217",
+          "vdesc": "Apollo CK406 Grey/Silver - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLK406GRYSLV1623",
+          "vdesc": "Apollo CK406 Grey/Silver - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLK406GRYSLV2029",
+          "vdesc": "Apollo CK406 Grey/Silver - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLK417CRMBGE",
+      "range": "Apollo",
+      "design": "CK417",
+      "c1": "Cream",
+      "c2": "Beige",
+      "style": "Modern Geometric",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLK417CRMBGE0815",
+          "vdesc": "Apollo CK417 Cream/Beige - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLK417CRMBGE1217",
+          "vdesc": "Apollo CK417 Cream/Beige - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLK417CRMBGE1623",
+          "vdesc": "Apollo CK417 Cream/Beige - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLK417CRMBGE2029",
+          "vdesc": "Apollo CK417 Cream/Beige - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLK417IVYDBL",
+      "range": "Apollo",
+      "design": "CK417",
+      "c1": "Ivory",
+      "c2": "Dark Blue",
+      "style": "Modern Geometric",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLK417IVYDBL0815",
+          "vdesc": "Apollo CK417 Ivory/Dark Blue - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLK417IVYDBL1217",
+          "vdesc": "Apollo CK417 Ivory/Dark Blue - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLK417IVYDBL1623",
+          "vdesc": "Apollo CK417 Ivory/Dark Blue - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLK417IVYDBL2029",
+          "vdesc": "Apollo CK417 Ivory/Dark Blue - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLK417IVYGRN",
+      "range": "Apollo",
+      "design": "CK417",
+      "c1": "Ivory",
+      "c2": "Green",
+      "style": "Modern Geometric",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLK417IVYGRN0815",
+          "vdesc": "Apollo CK417 Ivory/Green - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLK417IVYGRN1217",
+          "vdesc": "Apollo CK417 Ivory/Green - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLK417IVYGRN1623",
+          "vdesc": "Apollo CK417 Ivory/Green - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLK417IVYGRN2029",
+          "vdesc": "Apollo CK417 Ivory/Green - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLK417IVYGRY",
+      "range": "Apollo",
+      "design": "CK417",
+      "c1": "Ivory",
+      "c2": "Grey",
+      "style": "Modern Geometric",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLK417IVYGRY0815",
+          "vdesc": "Apollo CK417 Ivory/Grey - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLK417IVYGRY1217",
+          "vdesc": "Apollo CK417 Ivory/Grey - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLK417IVYGRY1623",
+          "vdesc": "Apollo CK417 Ivory/Grey - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLK417IVYGRY2029",
+          "vdesc": "Apollo CK417 Ivory/Grey - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLE052GRYDBL",
+      "range": "Apollo",
+      "design": "HE052",
+      "c1": "Grey",
+      "c2": "Dark Blue",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLE052GRYDBL0815",
+          "vdesc": "Apollo HE052 Grey/Dark Blue - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLE052GRYDBL1217",
+          "vdesc": "Apollo HE052 Grey/Dark Blue - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLE052GRYDBL1623",
+          "vdesc": "Apollo HE052 Grey/Dark Blue - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLE052GRYDBL2029",
+          "vdesc": "Apollo HE052 Grey/Dark Blue - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLE052GRYGLD",
+      "range": "Apollo",
+      "design": "HE052",
+      "c1": "Grey",
+      "c2": "Gold",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLE052GRYGLD0815",
+          "vdesc": "Apollo HE052 Grey/Gold - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLE052GRYGLD1217",
+          "vdesc": "Apollo HE052 Grey/Gold - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLE052GRYGLD1623",
+          "vdesc": "Apollo HE052 Grey/Gold - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLE052GRYGLD2029",
+          "vdesc": "Apollo HE052 Grey/Gold - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLE052GRYGRN",
+      "range": "Apollo",
+      "design": "HE052",
+      "c1": "Grey",
+      "c2": "Green",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLE052GRYGRN0815",
+          "vdesc": "Apollo HE052 Grey/Green - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLE052GRYGRN1217",
+          "vdesc": "Apollo HE052 Grey/Green - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLE052GRYGRN1623",
+          "vdesc": "Apollo HE052 Grey/Green - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLE052GRYGRN2029",
+          "vdesc": "Apollo HE052 Grey/Green - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLE052GRYSLV",
+      "range": "Apollo",
+      "design": "HE052",
+      "c1": "Grey",
+      "c2": "Silver",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLE052GRYSLV0815",
+          "vdesc": "Apollo HE052 Grey/Silver - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLE052GRYSLV1217",
+          "vdesc": "Apollo HE052 Grey/Silver - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLE052GRYSLV1623",
+          "vdesc": "Apollo HE052 Grey/Silver - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLE052GRYSLV2029",
+          "vdesc": "Apollo HE052 Grey/Silver - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLF126CRMBGE",
+      "range": "Apollo",
+      "design": "HF126",
+      "c1": "Cream",
+      "c2": "Beige",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLF126CRMBGE0815",
+          "vdesc": "Apollo HF126 Cream/Beige - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLF126CRMBGE1217",
+          "vdesc": "Apollo HF126 Cream/Beige - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLF126CRMBGE1623",
+          "vdesc": "Apollo HF126 Cream/Beige - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLF126CRMBGE2029",
+          "vdesc": "Apollo HF126 Cream/Beige - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLF126GRYDBL",
+      "range": "Apollo",
+      "design": "HF126",
+      "c1": "Grey",
+      "c2": "Dark Blue",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLF126GRYDBL0815",
+          "vdesc": "Apollo HF126 Grey/Dark Blue - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLF126GRYDBL1217",
+          "vdesc": "Apollo HF126 Grey/Dark Blue - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLF126GRYDBL1623",
+          "vdesc": "Apollo HF126 Grey/Dark Blue - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLF126GRYDBL2029",
+          "vdesc": "Apollo HF126 Grey/Dark Blue - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLF126GRYGLD",
+      "range": "Apollo",
+      "design": "HF126",
+      "c1": "Grey",
+      "c2": "Gold",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLF126GRYGLD0815",
+          "vdesc": "Apollo HF126 Grey/Gold - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLF126GRYGLD1217",
+          "vdesc": "Apollo HF126 Grey/Gold - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLF126GRYGLD1623",
+          "vdesc": "Apollo HF126 Grey/Gold - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLF126GRYGLD2029",
+          "vdesc": "Apollo HF126 Grey/Gold - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLF126GRYGRN",
+      "range": "Apollo",
+      "design": "HF126",
+      "c1": "Grey",
+      "c2": "Green",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLF126GRYGRN0815",
+          "vdesc": "Apollo HF126 Grey/Green - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLF126GRYGRN1217",
+          "vdesc": "Apollo HF126 Grey/Green - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLF126GRYGRN1623",
+          "vdesc": "Apollo HF126 Grey/Green - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLF126GRYGRN2029",
+          "vdesc": "Apollo HF126 Grey/Green - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "APOLF126GRYPRP",
+      "range": "Apollo",
+      "design": "HF126",
+      "c1": "Grey",
+      "c2": "Purple",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.75,
+          "rrp": 54.99,
+          "vcode": "APOLF126GRYPRP0815",
+          "vdesc": "Apollo HF126 Grey/Purple - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 38.75,
+          "rrp": 92.99,
+          "vcode": "APOLF126GRYPRP1217",
+          "vdesc": "Apollo HF126 Grey/Purple - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 69.75,
+          "rrp": 167.99,
+          "vcode": "APOLF126GRYPRP1623",
+          "vdesc": "Apollo HF126 Grey/Purple - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 109.75,
+          "rrp": 263.99,
+          "vcode": "APOLF126GRYPRP2029",
+          "vdesc": "Apollo HF126 Grey/Purple - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "ARCD1075WIVYGLD",
+      "range": "Arcadia",
+      "design": "1075W",
+      "c1": "Ivory",
+      "c2": "Gold",
+      "style": "Traditional",
+      "construction": "Machine Woven 100% Wool",
+      "m1": "Wool",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "Flat Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 180",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 48.25,
+          "rrp": 115.99,
+          "vcode": "ARCD1075WIVYGLD1217",
+          "vdesc": "Arcadia 1075W Ivory/Gold - 120 x 180"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 83.75,
+          "rrp": 200.99,
+          "vcode": "ARCD1075WIVYGLD1623",
+          "vdesc": "Arcadia 1075W Ivory/Gold - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 126.75,
+          "rrp": 304.99,
+          "vcode": "ARCD1075WIVYGLD2028",
+          "vdesc": "Arcadia 1075W Ivory/Gold - 200 x 285"
+        }
+      ],
+      "pile": 0.0
+    },
+    {
+      "code": "ARCD190XGRYGLD",
+      "range": "Arcadia",
+      "design": "190X",
+      "c1": "Grey",
+      "c2": "Gold",
+      "style": "Traditional",
+      "construction": "Machine Woven 100% Wool",
+      "m1": "Wool",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "Flat Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 180",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 48.25,
+          "rrp": 115.99,
+          "vcode": "ARCD190XGRYGLD1217",
+          "vdesc": "Arcadia 190X Grey/Gold - 120 x 180"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 83.75,
+          "rrp": 200.99,
+          "vcode": "ARCD190XGRYGLD1623",
+          "vdesc": "Arcadia 190X Grey/Gold - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 126.75,
+          "rrp": 304.99,
+          "vcode": "ARCD190XGRYGLD2028",
+          "vdesc": "Arcadia 190X Grey/Gold - 200 x 285"
+        }
+      ],
+      "pile": 0.0
+    },
+    {
+      "code": "ARCD28ZCHAGLD",
+      "range": "Arcadia",
+      "design": "28Z",
+      "c1": "Charcoal",
+      "c2": "Gold",
+      "style": "Traditional",
+      "construction": "Machine Woven 100% Wool",
+      "m1": "Wool",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "Flat Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 180",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 48.25,
+          "rrp": 115.99,
+          "vcode": "ARCD28ZCHAGLD1217",
+          "vdesc": "Arcadia 28Z Charcoal/Gold - 120 x 180"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 83.75,
+          "rrp": 200.99,
+          "vcode": "ARCD28ZCHAGLD1623",
+          "vdesc": "Arcadia 28Z Charcoal/Gold - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 126.75,
+          "rrp": 304.99,
+          "vcode": "ARCD28ZCHAGLD2028",
+          "vdesc": "Arcadia 28Z Charcoal/Gold - 200 x 285"
+        }
+      ],
+      "pile": 0.0
+    },
+    {
+      "code": "BHMA4019BLKMLT",
+      "range": "Bohemia",
+      "design": "4019",
+      "c1": "Black",
+      "c2": "Multi",
+      "style": "Traditional",
+      "construction": "Transfer Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": true,
+      "feats": [
+        "Washable",
+        "Soft Pile",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "60 x 230",
+          "approx": "Runner",
+          "shape": "Rectangle",
+          "ws": 22.56,
+          "rrp": 54.99,
+          "vcode": "BHMA4019BLKMLT6023",
+          "vdesc": "Bohemia 4019 Black/Multi - 60 x 230"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 33.35,
+          "rrp": 80.99,
+          "vcode": "BHMA4019BLKMLT1217",
+          "vdesc": "Bohemia 4019 Black/Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 60.25,
+          "rrp": 144.99,
+          "vcode": "BHMA4019BLKMLT1623",
+          "vdesc": "Bohemia 4019 Black/Multi - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "BHMA4019BLKMLT2029",
+          "vdesc": "Bohemia 4019 Black/Multi - 200 x 290"
+        }
+      ],
+      "pile": 0.5
+    },
+    {
+      "code": "BHMA4019CRMBLU",
+      "range": "Bohemia",
+      "design": "4019",
+      "c1": "Cream",
+      "c2": "Blue",
+      "style": "Traditional",
+      "construction": "Transfer Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": true,
+      "feats": [
+        "Washable",
+        "Soft Pile",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "60 x 230",
+          "approx": "Runner",
+          "shape": "Rectangle",
+          "ws": 22.56,
+          "rrp": 54.99,
+          "vcode": "BHMA4019CRMBLU6023",
+          "vdesc": "Bohemia 4019 Cream/Blue - 60 x 230"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 33.35,
+          "rrp": 80.99,
+          "vcode": "BHMA4019CRMBLU1217",
+          "vdesc": "Bohemia 4019 Cream/Blue - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 60.25,
+          "rrp": 144.99,
+          "vcode": "BHMA4019CRMBLU1623",
+          "vdesc": "Bohemia 4019 Cream/Blue - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "BHMA4019CRMBLU2029",
+          "vdesc": "Bohemia 4019 Cream/Blue - 200 x 290"
+        }
+      ],
+      "pile": 0.5
+    },
+    {
+      "code": "BHMA4019CRMPNK",
+      "range": "Bohemia",
+      "design": "4019",
+      "c1": "Cream",
+      "c2": "Pink",
+      "style": "Traditional",
+      "construction": "Transfer Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": true,
+      "feats": [
+        "Washable",
+        "Soft Pile",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "60 x 230",
+          "approx": "Runner",
+          "shape": "Rectangle",
+          "ws": 22.56,
+          "rrp": 54.99,
+          "vcode": "BHMA4019CRMPNK6023",
+          "vdesc": "Bohemia 4019 Cream/Pink - 60 x 230"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 33.35,
+          "rrp": 80.99,
+          "vcode": "BHMA4019CRMPNK1217",
+          "vdesc": "Bohemia 4019 Cream/Pink - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 60.25,
+          "rrp": 144.99,
+          "vcode": "BHMA4019CRMPNK1623",
+          "vdesc": "Bohemia 4019 Cream/Pink - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "BHMA4019CRMPNK2029",
+          "vdesc": "Bohemia 4019 Cream/Pink - 200 x 290"
+        }
+      ],
+      "pile": 0.5
+    },
+    {
+      "code": "BHMA4019NAVMLT",
+      "range": "Bohemia",
+      "design": "4019",
+      "c1": "Navy",
+      "c2": "Multi",
+      "style": "Traditional",
+      "construction": "Transfer Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": true,
+      "feats": [
+        "Washable",
+        "Soft Pile",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "60 x 230",
+          "approx": "Runner",
+          "shape": "Rectangle",
+          "ws": 22.56,
+          "rrp": 54.99,
+          "vcode": "BHMA4019NAVMLT6023",
+          "vdesc": "Bohemia 4019 Navy/Multi - 60 x 230"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 33.35,
+          "rrp": 80.99,
+          "vcode": "BHMA4019NAVMLT1217",
+          "vdesc": "Bohemia 4019 Navy/Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 60.25,
+          "rrp": 144.99,
+          "vcode": "BHMA4019NAVMLT1623",
+          "vdesc": "Bohemia 4019 Navy/Multi - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "BHMA4019NAVMLT2029",
+          "vdesc": "Bohemia 4019 Navy/Multi - 200 x 290"
+        }
+      ],
+      "pile": 0.5
+    },
+    {
+      "code": "BHMA4019REDMLT",
+      "range": "Bohemia",
+      "design": "4019",
+      "c1": "Red",
+      "c2": "Multi",
+      "style": "Traditional",
+      "construction": "Transfer Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": true,
+      "feats": [
+        "Washable",
+        "Soft Pile",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "60 x 230",
+          "approx": "Runner",
+          "shape": "Rectangle",
+          "ws": 22.56,
+          "rrp": 54.99,
+          "vcode": "BHMA4019REDMLT6023",
+          "vdesc": "Bohemia 4019 Red/Multi - 60 x 230"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 33.35,
+          "rrp": 80.99,
+          "vcode": "BHMA4019REDMLT1217",
+          "vdesc": "Bohemia 4019 Red/Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 60.25,
+          "rrp": 144.99,
+          "vcode": "BHMA4019REDMLT1623",
+          "vdesc": "Bohemia 4019 Red/Multi - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "BHMA4019REDMLT2029",
+          "vdesc": "Bohemia 4019 Red/Multi - 200 x 290"
+        }
+      ],
+      "pile": 0.5
+    },
+    {
+      "code": "BHMA4019STNRST",
+      "range": "Bohemia",
+      "design": "4019",
+      "c1": "Stone",
+      "c2": "Rust",
+      "style": "Traditional",
+      "construction": "Transfer Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": true,
+      "feats": [
+        "Washable",
+        "Soft Pile",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "60 x 230",
+          "approx": "Runner",
+          "shape": "Rectangle",
+          "ws": 22.56,
+          "rrp": 54.99,
+          "vcode": "BHMA4019STNRST6023",
+          "vdesc": "Bohemia 4019 Stone/Rust - 60 x 230"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 33.35,
+          "rrp": 80.99,
+          "vcode": "BHMA4019STNRST1217",
+          "vdesc": "Bohemia 4019 Stone/Rust - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 60.25,
+          "rrp": 144.99,
+          "vcode": "BHMA4019STNRST1623",
+          "vdesc": "Bohemia 4019 Stone/Rust - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "BHMA4019STNRST2029",
+          "vdesc": "Bohemia 4019 Stone/Rust - 200 x 290"
+        }
+      ],
+      "pile": 0.5
+    },
+    {
+      "code": "BHMA9070CRMMLT",
+      "range": "Bohemia",
+      "design": "9070",
+      "c1": "Cream",
+      "c2": "Multi",
+      "style": "Floral",
+      "construction": "Transfer Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": true,
+      "feats": [
+        "Washable",
+        "Soft Pile",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "60 x 230",
+          "approx": "Runner",
+          "shape": "Rectangle",
+          "ws": 22.56,
+          "rrp": 54.99,
+          "vcode": "BHMA9070CRMMLT6023",
+          "vdesc": "Bohemia 9070 Cream/Multi - 60 x 230"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 33.35,
+          "rrp": 80.99,
+          "vcode": "BHMA9070CRMMLT1217",
+          "vdesc": "Bohemia 9070 Cream/Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 60.25,
+          "rrp": 144.99,
+          "vcode": "BHMA9070CRMMLT1623",
+          "vdesc": "Bohemia 9070 Cream/Multi - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "BHMA9070CRMMLT2029",
+          "vdesc": "Bohemia 9070 Cream/Multi - 200 x 290"
+        }
+      ],
+      "pile": 0.5
+    },
+    {
+      "code": "BHMA9070CRMSTN",
+      "range": "Bohemia",
+      "design": "9070",
+      "c1": "Cream",
+      "c2": "Stone",
+      "style": "Floral",
+      "construction": "Transfer Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": true,
+      "feats": [
+        "Washable",
+        "Soft Pile",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "60 x 230",
+          "approx": "Runner",
+          "shape": "Rectangle",
+          "ws": 22.56,
+          "rrp": 54.99,
+          "vcode": "BHMA9070CRMSTN6023",
+          "vdesc": "Bohemia 9070 Cream/Stone - 60 x 230"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 33.35,
+          "rrp": 80.99,
+          "vcode": "BHMA9070CRMSTN1217",
+          "vdesc": "Bohemia 9070 Cream/Stone - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 60.25,
+          "rrp": 144.99,
+          "vcode": "BHMA9070CRMSTN1623",
+          "vdesc": "Bohemia 9070 Cream/Stone - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "BHMA9070CRMSTN2029",
+          "vdesc": "Bohemia 9070 Cream/Stone - 200 x 290"
+        }
+      ],
+      "pile": 0.5
+    },
+    {
+      "code": "BHMA9070NAVCRM",
+      "range": "Bohemia",
+      "design": "9070",
+      "c1": "Navy",
+      "c2": "Cream",
+      "style": "Floral",
+      "construction": "Transfer Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": true,
+      "feats": [
+        "Washable",
+        "Soft Pile",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "60 x 230",
+          "approx": "Runner",
+          "shape": "Rectangle",
+          "ws": 22.56,
+          "rrp": 54.99,
+          "vcode": "BHMA9070NAVCRM6023",
+          "vdesc": "Bohemia 9070 Navy/Cream - 60 x 230"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 33.35,
+          "rrp": 80.99,
+          "vcode": "BHMA9070NAVCRM1217",
+          "vdesc": "Bohemia 9070 Navy/Cream - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 60.25,
+          "rrp": 144.99,
+          "vcode": "BHMA9070NAVCRM1623",
+          "vdesc": "Bohemia 9070 Navy/Cream - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "BHMA9070NAVCRM2029",
+          "vdesc": "Bohemia 9070 Navy/Cream - 200 x 290"
+        }
+      ],
+      "pile": 0.5
+    },
+    {
+      "code": "BHMA9070STNBGE",
+      "range": "Bohemia",
+      "design": "9070",
+      "c1": "Stone",
+      "c2": "Beige",
+      "style": "Floral",
+      "construction": "Transfer Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": true,
+      "feats": [
+        "Washable",
+        "Soft Pile",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "60 x 230",
+          "approx": "Runner",
+          "shape": "Rectangle",
+          "ws": 22.56,
+          "rrp": 54.99,
+          "vcode": "BHMA9070STNBGE6023",
+          "vdesc": "Bohemia 9070 Stone/Beige - 60 x 230"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 33.35,
+          "rrp": 80.99,
+          "vcode": "BHMA9070STNBGE1217",
+          "vdesc": "Bohemia 9070 Stone/Beige - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 60.25,
+          "rrp": 144.99,
+          "vcode": "BHMA9070STNBGE1623",
+          "vdesc": "Bohemia 9070 Stone/Beige - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "BHMA9070STNBGE2029",
+          "vdesc": "Bohemia 9070 Stone/Beige - 200 x 290"
+        }
+      ],
+      "pile": 0.5
+    },
+    {
+      "code": "BRXNR52ABLUCRM",
+      "range": "Brixton",
+      "design": "R52A",
+      "c1": "Blue",
+      "c2": "Cream",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 50% Polypropylene 50% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 45.75,
+          "rrp": 109.99,
+          "vcode": "BRXNR52ABLUCRM1217",
+          "vdesc": "Brixton R52A Blue/Cream - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 82.75,
+          "rrp": 198.99,
+          "vcode": "BRXNR52ABLUCRM1623",
+          "vdesc": "Brixton R52A Blue/Cream - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 130.25,
+          "rrp": 312.99,
+          "vcode": "BRXNR52ABLUCRM2029",
+          "vdesc": "Brixton R52A Blue/Cream - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "BRXNR52BGRNCRM",
+      "range": "Brixton",
+      "design": "R52B",
+      "c1": "Green",
+      "c2": "Cream",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 50% Polypropylene 50% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 45.75,
+          "rrp": 109.99,
+          "vcode": "BRXNR52BGRNCRM1217",
+          "vdesc": "Brixton R52B Green/Cream - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 82.75,
+          "rrp": 198.99,
+          "vcode": "BRXNR52BGRNCRM1623",
+          "vdesc": "Brixton R52B Green/Cream - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 130.25,
+          "rrp": 312.99,
+          "vcode": "BRXNR52BGRNCRM2029",
+          "vdesc": "Brixton R52B Green/Cream - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "BRXNR52CRSTCRM",
+      "range": "Brixton",
+      "design": "R52C",
+      "c1": "Rust",
+      "c2": "Cream",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 50% Polypropylene 50% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 45.75,
+          "rrp": 109.99,
+          "vcode": "BRXNR52CRSTCRM1217",
+          "vdesc": "Brixton R52C Rust/Cream - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 82.75,
+          "rrp": 198.99,
+          "vcode": "BRXNR52CRSTCRM1623",
+          "vdesc": "Brixton R52C Rust/Cream - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 130.25,
+          "rrp": 312.99,
+          "vcode": "BRXNR52CRSTCRM2029",
+          "vdesc": "Brixton R52C Rust/Cream - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "BRXNR66ABLUCRM",
+      "range": "Brixton",
+      "design": "R66A",
+      "c1": "Blue",
+      "c2": "Cream",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 50% Polypropylene 50% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 45.75,
+          "rrp": 109.99,
+          "vcode": "BRXNR66ABLUCRM1217",
+          "vdesc": "Brixton R66A Blue/Cream - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 82.75,
+          "rrp": 198.99,
+          "vcode": "BRXNR66ABLUCRM1623",
+          "vdesc": "Brixton R66A Blue/Cream - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 130.25,
+          "rrp": 312.99,
+          "vcode": "BRXNR66ABLUCRM2029",
+          "vdesc": "Brixton R66A Blue/Cream - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "BRXNR66BGRNCRM",
+      "range": "Brixton",
+      "design": "R66B",
+      "c1": "Green",
+      "c2": "Cream",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 50% Polypropylene 50% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 45.75,
+          "rrp": 109.99,
+          "vcode": "BRXNR66BGRNCRM1217",
+          "vdesc": "Brixton R66B Green/Cream - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 82.75,
+          "rrp": 198.99,
+          "vcode": "BRXNR66BGRNCRM1623",
+          "vdesc": "Brixton R66B Green/Cream - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 130.25,
+          "rrp": 312.99,
+          "vcode": "BRXNR66BGRNCRM2029",
+          "vdesc": "Brixton R66B Green/Cream - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "BRXNR66CRSTCRM",
+      "range": "Brixton",
+      "design": "R66C",
+      "c1": "Rust",
+      "c2": "Cream",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 50% Polypropylene 50% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 45.75,
+          "rrp": 109.99,
+          "vcode": "BRXNR66CRSTCRM1217",
+          "vdesc": "Brixton R66C Rust/Cream - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 82.75,
+          "rrp": 198.99,
+          "vcode": "BRXNR66CRSTCRM1623",
+          "vdesc": "Brixton R66C Rust/Cream - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 130.25,
+          "rrp": 312.99,
+          "vcode": "BRXNR66CRSTCRM2029",
+          "vdesc": "Brixton R66C Rust/Cream - 200 x 290"
+        }
+      ],
+      "pile": 1.0
+    },
+    {
+      "code": "CMDNP48ABLUGRY",
+      "range": "Camden",
+      "design": "P48A",
+      "c1": "Blue",
+      "c2": "Grey",
+      "style": "Modern Linear",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 52.75,
+          "rrp": 126.99,
+          "vcode": "CMDNP48ABLUGRY1217",
+          "vdesc": "Camden P48A Blue/Grey - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "CMDNP48ABLUGRY1623",
+          "vdesc": "Camden P48A Blue/Grey - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 149.75,
+          "rrp": 359.99,
+          "vcode": "CMDNP48ABLUGRY2029",
+          "vdesc": "Camden P48A Blue/Grey - 200 x 290"
+        }
+      ],
+      "pile": 0.9
+    },
+    {
+      "code": "CMDNP48ACRM",
+      "range": "Camden",
+      "design": "P48A",
+      "c1": "Cream",
+      "c2": null,
+      "style": "Modern Linear",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 52.75,
+          "rrp": 126.99,
+          "vcode": "CMDNP48ACRM1217",
+          "vdesc": "Camden P48A Cream - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "CMDNP48ACRM1623",
+          "vdesc": "Camden P48A Cream - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 149.75,
+          "rrp": 359.99,
+          "vcode": "CMDNP48ACRM2029",
+          "vdesc": "Camden P48A Cream - 200 x 290"
+        }
+      ],
+      "pile": 0.9
+    },
+    {
+      "code": "CMDNP48AGRN",
+      "range": "Camden",
+      "design": "P48A",
+      "c1": "Green",
+      "c2": null,
+      "style": "Modern Linear",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 52.75,
+          "rrp": 126.99,
+          "vcode": "CMDNP48AGRN1217",
+          "vdesc": "Camden P48A Green - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "CMDNP48AGRN1623",
+          "vdesc": "Camden P48A Green - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 149.75,
+          "rrp": 359.99,
+          "vcode": "CMDNP48AGRN2029",
+          "vdesc": "Camden P48A Green - 200 x 290"
+        }
+      ],
+      "pile": 0.9
+    },
+    {
+      "code": "CMDNP48ATPE",
+      "range": "Camden",
+      "design": "P48A",
+      "c1": "Taupe",
+      "c2": null,
+      "style": "Modern Linear",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 52.75,
+          "rrp": 126.99,
+          "vcode": "CMDNP48ATPE1217",
+          "vdesc": "Camden P48A Taupe - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "CMDNP48ATPE1623",
+          "vdesc": "Camden P48A Taupe - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 149.75,
+          "rrp": 359.99,
+          "vcode": "CMDNP48ATPE2029",
+          "vdesc": "Camden P48A Taupe - 200 x 290"
+        }
+      ],
+      "pile": 0.9
+    },
+    {
+      "code": "DRFT3126BGEGRN",
+      "range": "Drift",
+      "design": "3126",
+      "c1": "Beige",
+      "c2": "Green",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 100% Polypropylene",
+      "m1": "Polypropylene",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Hard Wearing",
+        "Stain Resistant",
+        "Soft Pile"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 24.0,
+          "rrp": 57.99,
+          "vcode": "DRFT3126BGEGRN0815",
+          "vdesc": "Drift 3126 Beige/Green - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 40.5,
+          "rrp": 97.99,
+          "vcode": "DRFT3126BGEGRN1217",
+          "vdesc": "Drift 3126 Beige/Green - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 73.25,
+          "rrp": 175.99,
+          "vcode": "DRFT3126BGEGRN1623",
+          "vdesc": "Drift 3126 Beige/Green - 160 x 230"
+        }
+      ],
+      "pile": 1.1
+    },
+    {
+      "code": "DRFT3126BGERST",
+      "range": "Drift",
+      "design": "3126",
+      "c1": "Beige",
+      "c2": "Rust",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 100% Polypropylene",
+      "m1": "Polypropylene",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Hard Wearing",
+        "Stain Resistant",
+        "Soft Pile"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 24.0,
+          "rrp": 57.99,
+          "vcode": "DRFT3126BGERST0815",
+          "vdesc": "Drift 3126 Beige/Rust - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 40.5,
+          "rrp": 97.99,
+          "vcode": "DRFT3126BGERST1217",
+          "vdesc": "Drift 3126 Beige/Rust - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 73.25,
+          "rrp": 175.99,
+          "vcode": "DRFT3126BGERST1623",
+          "vdesc": "Drift 3126 Beige/Rust - 160 x 230"
+        }
+      ],
+      "pile": 1.1
+    },
+    {
+      "code": "DRFT3126CRMBGE",
+      "range": "Drift",
+      "design": "3126",
+      "c1": "Cream",
+      "c2": "Beige",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 100% Polypropylene",
+      "m1": "Polypropylene",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Hard Wearing",
+        "Stain Resistant",
+        "Soft Pile"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 24.0,
+          "rrp": 57.99,
+          "vcode": "DRFT3126CRMBGE0815",
+          "vdesc": "Drift 3126 Cream/Beige - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 40.5,
+          "rrp": 97.99,
+          "vcode": "DRFT3126CRMBGE1217",
+          "vdesc": "Drift 3126 Cream/Beige - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 73.25,
+          "rrp": 175.99,
+          "vcode": "DRFT3126CRMBGE1623",
+          "vdesc": "Drift 3126 Cream/Beige - 160 x 230"
+        }
+      ],
+      "pile": 1.1
+    },
+    {
+      "code": "DRFT3126CRMBLU",
+      "range": "Drift",
+      "design": "3126",
+      "c1": "Cream",
+      "c2": "Blue",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 100% Polypropylene",
+      "m1": "Polypropylene",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Hard Wearing",
+        "Stain Resistant",
+        "Soft Pile"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 24.0,
+          "rrp": 57.99,
+          "vcode": "DRFT3126CRMBLU0815",
+          "vdesc": "Drift 3126 Cream/Blue - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 40.5,
+          "rrp": 97.99,
+          "vcode": "DRFT3126CRMBLU1217",
+          "vdesc": "Drift 3126 Cream/Blue - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 73.25,
+          "rrp": 175.99,
+          "vcode": "DRFT3126CRMBLU1623",
+          "vdesc": "Drift 3126 Cream/Blue - 160 x 230"
+        }
+      ],
+      "pile": 1.1
+    },
+    {
+      "code": "DRFT3126CRMGRY",
+      "range": "Drift",
+      "design": "3126",
+      "c1": "Cream",
+      "c2": "Grey",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 100% Polypropylene",
+      "m1": "Polypropylene",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Hard Wearing",
+        "Stain Resistant",
+        "Soft Pile"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 24.0,
+          "rrp": 57.99,
+          "vcode": "DRFT3126CRMGRY0815",
+          "vdesc": "Drift 3126 Cream/Grey - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 40.5,
+          "rrp": 97.99,
+          "vcode": "DRFT3126CRMGRY1217",
+          "vdesc": "Drift 3126 Cream/Grey - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 73.25,
+          "rrp": 175.99,
+          "vcode": "DRFT3126CRMGRY1623",
+          "vdesc": "Drift 3126 Cream/Grey - 160 x 230"
+        }
+      ],
+      "pile": 1.1
+    },
+    {
+      "code": "DRFT3126IVYBLK",
+      "range": "Drift",
+      "design": "3126",
+      "c1": "Ivory",
+      "c2": "Black",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 100% Polypropylene",
+      "m1": "Polypropylene",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Hard Wearing",
+        "Stain Resistant",
+        "Soft Pile"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 24.0,
+          "rrp": 57.99,
+          "vcode": "DRFT3126IVYBLK0815",
+          "vdesc": "Drift 3126 Ivory/Black - 080 x 150"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 40.5,
+          "rrp": 97.99,
+          "vcode": "DRFT3126IVYBLK1217",
+          "vdesc": "Drift 3126 Ivory/Black - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 73.25,
+          "rrp": 175.99,
+          "vcode": "DRFT3126IVYBLK1623",
+          "vdesc": "Drift 3126 Ivory/Black - 160 x 230"
+        }
+      ],
+      "pile": 1.1
+    },
+    {
+      "code": "HVAN4024GLDMLT",
+      "range": "Havana",
+      "design": "4024",
+      "c1": "Gold",
+      "c2": "Multi",
+      "style": "Modern Geometric",
+      "construction": "Machine Woven 100% Polypropylene",
+      "m1": "Polypropylene",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Textured Pile",
+        "Soft Pile",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 35.75,
+          "rrp": 85.99,
+          "vcode": "HVAN4024GLDMLT1217",
+          "vdesc": "Havana 4024 Gold/Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 66.0,
+          "rrp": 158.99,
+          "vcode": "HVAN4024GLDMLT1623",
+          "vdesc": "Havana 4024 Gold/Multi - 160 x 235"
+        }
+      ],
+      "pile": 1.8
+    },
+    {
+      "code": "HVAN8002RSTMLT",
+      "range": "Havana",
+      "design": "8002",
+      "c1": "Rust",
+      "c2": "Multi",
+      "style": "Modern Geometric",
+      "construction": "Machine Woven 100% Polypropylene",
+      "m1": "Polypropylene",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Textured Pile",
+        "Soft Pile",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 35.75,
+          "rrp": 85.99,
+          "vcode": "HVAN8002RSTMLT1217",
+          "vdesc": "Havana 8002 Rust/Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 66.0,
+          "rrp": 158.99,
+          "vcode": "HVAN8002RSTMLT1623",
+          "vdesc": "Havana 8002 Rust/Multi - 160 x 235"
+        }
+      ],
+      "pile": 1.8
+    },
+    {
+      "code": "HVAN8004GRYMLT",
+      "range": "Havana",
+      "design": "8004",
+      "c1": "Grey",
+      "c2": "Multi",
+      "style": "Modern Geometric",
+      "construction": "Machine Woven 100% Polypropylene",
+      "m1": "Polypropylene",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Textured Pile",
+        "Soft Pile",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 35.75,
+          "rrp": 85.99,
+          "vcode": "HVAN8004GRYMLT1217",
+          "vdesc": "Havana 8004 Grey/Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 66.0,
+          "rrp": 158.99,
+          "vcode": "HVAN8004GRYMLT1623",
+          "vdesc": "Havana 8004 Grey/Multi - 160 x 235"
+        }
+      ],
+      "pile": 1.8
+    },
+    {
+      "code": "HVAN8006RSTMLT",
+      "range": "Havana",
+      "design": "8006",
+      "c1": "Rust",
+      "c2": "Multi",
+      "style": "Modern Geometric",
+      "construction": "Machine Woven 100% Polypropylene",
+      "m1": "Polypropylene",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Textured Pile",
+        "Soft Pile",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 35.75,
+          "rrp": 85.99,
+          "vcode": "HVAN8006RSTMLT1217",
+          "vdesc": "Havana 8006 Rust/Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 66.0,
+          "rrp": 158.99,
+          "vcode": "HVAN8006RSTMLT1623",
+          "vdesc": "Havana 8006 Rust/Multi - 160 x 235"
+        }
+      ],
+      "pile": 1.8
+    },
+    {
+      "code": "HVAN8007MLT",
+      "range": "Havana",
+      "design": "8007",
+      "c1": "Multi",
+      "c2": null,
+      "style": "Modern Geometric",
+      "construction": "Machine Woven 100% Polypropylene",
+      "m1": "Polypropylene",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Textured Pile",
+        "Soft Pile",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 35.75,
+          "rrp": 85.99,
+          "vcode": "HVAN8007MLT1217",
+          "vdesc": "Havana 8007 Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 66.0,
+          "rrp": 158.99,
+          "vcode": "HVAN8007MLT1623",
+          "vdesc": "Havana 8007 Multi - 160 x 235"
+        }
+      ],
+      "pile": 1.8
+    },
+    {
+      "code": "HVAN8010MLT",
+      "range": "Havana",
+      "design": "8010",
+      "c1": "Multi",
+      "c2": null,
+      "style": "Modern Geometric",
+      "construction": "Machine Woven 100% Polypropylene",
+      "m1": "Polypropylene",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Textured Pile",
+        "Soft Pile",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 35.75,
+          "rrp": 85.99,
+          "vcode": "HVAN8010MLT1217",
+          "vdesc": "Havana 8010 Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 66.0,
+          "rrp": 158.99,
+          "vcode": "HVAN8010MLT1623",
+          "vdesc": "Havana 8010 Multi - 160 x 235"
+        }
+      ],
+      "pile": 1.8
+    },
+    {
+      "code": "HRLM0452NAVCRM",
+      "range": "Heirloom",
+      "design": "0452",
+      "c1": "Navy",
+      "c2": "Cream",
+      "style": "Traditional",
+      "construction": "Digitally Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": true,
+      "feats": [
+        "Washable",
+        "Digitally Printed",
+        "Flat Weave"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 33.35,
+          "rrp": 80.99,
+          "vcode": "HRLM0452NAVCRM1217",
+          "vdesc": "Heirloom 0452 Navy/Cream - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 60.25,
+          "rrp": 144.99,
+          "vcode": "HRLM0452NAVCRM1623",
+          "vdesc": "Heirloom 0452 Navy/Cream - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "HRLM0452NAVCRM2029",
+          "vdesc": "Heirloom 0452 Navy/Cream - 200 x 290"
+        }
+      ],
+      "pile": 0.5
+    },
+    {
+      "code": "HRLM0452RSTCRM",
+      "range": "Heirloom",
+      "design": "0452",
+      "c1": "Rust",
+      "c2": "Cream",
+      "style": "Traditional",
+      "construction": "Digitally Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": true,
+      "feats": [
+        "Washable",
+        "Digitally Printed",
+        "Flat Weave"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 33.35,
+          "rrp": 80.99,
+          "vcode": "HRLM0452RSTCRM1217",
+          "vdesc": "Heirloom 0452 Rust/Cream - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 60.25,
+          "rrp": 144.99,
+          "vcode": "HRLM0452RSTCRM1623",
+          "vdesc": "Heirloom 0452 Rust/Cream - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "HRLM0452RSTCRM2029",
+          "vdesc": "Heirloom 0452 Rust/Cream - 200 x 290"
+        }
+      ],
+      "pile": 0.5
+    },
+    {
+      "code": "HRLM0709RSTTEA",
+      "range": "Heirloom",
+      "design": "0709",
+      "c1": "Rust",
+      "c2": "Teal",
+      "style": "Traditional",
+      "construction": "Digitally Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": true,
+      "feats": [
+        "Washable",
+        "Digitally Printed",
+        "Flat Weave"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 33.35,
+          "rrp": 80.99,
+          "vcode": "HRLM0709RSTTEA1217",
+          "vdesc": "Heirloom 0709 Rust/Teal - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 60.25,
+          "rrp": 144.99,
+          "vcode": "HRLM0709RSTTEA1623",
+          "vdesc": "Heirloom 0709 Rust/Teal - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "HRLM0709RSTTEA2029",
+          "vdesc": "Heirloom 0709 Rust/Teal - 200 x 290"
+        }
+      ],
+      "pile": 0.5
+    },
+    {
+      "code": "HRLM1077RSTTEA",
+      "range": "Heirloom",
+      "design": "1077",
+      "c1": "Rust",
+      "c2": "Teal",
+      "style": "Traditional",
+      "construction": "Digitally Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": true,
+      "feats": [
+        "Washable",
+        "Digitally Printed",
+        "Flat Weave"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 33.35,
+          "rrp": 80.99,
+          "vcode": "HRLM1077RSTTEA1217",
+          "vdesc": "Heirloom 1077 Rust/Teal - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 60.25,
+          "rrp": 144.99,
+          "vcode": "HRLM1077RSTTEA1623",
+          "vdesc": "Heirloom 1077 Rust/Teal - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "HRLM1077RSTTEA2029",
+          "vdesc": "Heirloom 1077 Rust/Teal - 200 x 290"
+        }
+      ],
+      "pile": 0.5
+    },
+    {
+      "code": "HRLM1227RSTBLU",
+      "range": "Heirloom",
+      "design": "1227",
+      "c1": "Rust",
+      "c2": "Blue",
+      "style": "Traditional",
+      "construction": "Digitally Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": true,
+      "feats": [
+        "Washable",
+        "Digitally Printed",
+        "Flat Weave"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 33.35,
+          "rrp": 80.99,
+          "vcode": "HRLM1227RSTBLU1217",
+          "vdesc": "Heirloom 1227 Rust/Blue - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 60.25,
+          "rrp": 144.99,
+          "vcode": "HRLM1227RSTBLU1623",
+          "vdesc": "Heirloom 1227 Rust/Blue - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "HRLM1227RSTBLU2029",
+          "vdesc": "Heirloom 1227 Rust/Blue - 200 x 290"
+        }
+      ],
+      "pile": 0.5
+    },
+    {
+      "code": "KNGSP63ABGECRM",
+      "range": "Kingsley",
+      "design": "P63A",
+      "c1": "Beige",
+      "c2": "Cream",
+      "style": "Floral",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 52.75,
+          "rrp": 126.99,
+          "vcode": "KNGSP63ABGECRM1217",
+          "vdesc": "Kingsley P63A Beige/Cream - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "KNGSP63ABGECRM1623",
+          "vdesc": "Kingsley P63A Beige/Cream - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 149.75,
+          "rrp": 359.99,
+          "vcode": "KNGSP63ABGECRM2029",
+          "vdesc": "Kingsley P63A Beige/Cream - 200 x 290"
+        }
+      ],
+      "pile": 0.9
+    },
+    {
+      "code": "KNGSP63AGRNCRM",
+      "range": "Kingsley",
+      "design": "P63A",
+      "c1": "Green",
+      "c2": "Cream",
+      "style": "Floral",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 52.75,
+          "rrp": 126.99,
+          "vcode": "KNGSP63AGRNCRM1217",
+          "vdesc": "Kingsley P63A Green/Cream - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "KNGSP63AGRNCRM1623",
+          "vdesc": "Kingsley P63A Green/Cream - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 149.75,
+          "rrp": 359.99,
+          "vcode": "KNGSP63AGRNCRM2029",
+          "vdesc": "Kingsley P63A Green/Cream - 200 x 290"
+        }
+      ],
+      "pile": 0.9
+    },
+    {
+      "code": "KNGSP63AGRYCRM",
+      "range": "Kingsley",
+      "design": "P63A",
+      "c1": "Grey",
+      "c2": "Cream",
+      "style": "Floral",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 52.75,
+          "rrp": 126.99,
+          "vcode": "KNGSP63AGRYCRM1217",
+          "vdesc": "Kingsley P63A Grey/Cream - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "KNGSP63AGRYCRM1623",
+          "vdesc": "Kingsley P63A Grey/Cream - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 149.75,
+          "rrp": 359.99,
+          "vcode": "KNGSP63AGRYCRM2029",
+          "vdesc": "Kingsley P63A Grey/Cream - 200 x 290"
+        }
+      ],
+      "pile": 0.9
+    },
+    {
+      "code": "KNGSP66ASLVCRM",
+      "range": "Kingsley",
+      "design": "P66A",
+      "c1": "Silver",
+      "c2": "Cream",
+      "style": "Floral",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Rectangle",
+          "ws": 52.75,
+          "rrp": 126.99,
+          "vcode": "KNGSP66ASLVCRM1217",
+          "vdesc": "Kingsley P66A Silver/Cream - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Rectangle",
+          "ws": 95.0,
+          "rrp": 227.99,
+          "vcode": "KNGSP66ASLVCRM1623",
+          "vdesc": "Kingsley P66A Silver/Cream - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Rectangle",
+          "ws": 149.75,
+          "rrp": 359.99,
+          "vcode": "KNGSP66ASLVCRM2029",
+          "vdesc": "Kingsley P66A Silver/Cream - 200 x 290"
+        }
+      ],
+      "pile": 0.9
+    },
+    {
+      "code": "LAGNP015BGEBRN",
+      "range": "Laguna",
+      "design": "P015",
+      "c1": "Beige",
+      "c2": "Brown",
+      "style": "Modern",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Hallway",
+      "wash": false,
+      "feats": [
+        "Soft Pile",
+        "Smooth Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.0,
+          "rrp": 52.99,
+          "vcode": "LAGNP015BGEBRN0815",
+          "vdesc": "Laguna P015 Beige/Brown - 080 x 150"
+        },
+        {
+          "size": "60 x 220",
+          "approx": "Runner",
+          "shape": "Oblong",
+          "ws": 24.5,
+          "rrp": 58.99,
+          "vcode": "LAGNP015BGEBRN6022",
+          "vdesc": "Laguna P015 Beige/Brown - 060 x 220"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 37.5,
+          "rrp": 89.99,
+          "vcode": "LAGNP015BGEBRN1217",
+          "vdesc": "Laguna P015 Beige/Brown - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 67.75,
+          "rrp": 162.99,
+          "vcode": "LAGNP015BGEBRN1623",
+          "vdesc": "Laguna P015 Beige/Brown - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 106.5,
+          "rrp": 255.99,
+          "vcode": "LAGNP015BGEBRN2029",
+          "vdesc": "Laguna P015 Beige/Brown - 200 x 290"
+        }
+      ],
+      "pile": 2.0
+    },
+    {
+      "code": "LAGNP015GRYBLK",
+      "range": "Laguna",
+      "design": "P015",
+      "c1": "Grey",
+      "c2": "Black",
+      "style": "Modern",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Hallway",
+      "wash": false,
+      "feats": [
+        "Soft Pile",
+        "Smooth Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.0,
+          "rrp": 52.99,
+          "vcode": "LAGNP015GRYBLK0815",
+          "vdesc": "Laguna P015 Grey/Black - 080 x 150"
+        },
+        {
+          "size": "60 x 220",
+          "approx": "Runner",
+          "shape": "Oblong",
+          "ws": 24.5,
+          "rrp": 58.99,
+          "vcode": "LAGNP015GRYBLK6022",
+          "vdesc": "Laguna P015 Grey/Black - 060 x 220"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 37.5,
+          "rrp": 89.99,
+          "vcode": "LAGNP015GRYBLK1217",
+          "vdesc": "Laguna P015 Grey/Black - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 67.75,
+          "rrp": 162.99,
+          "vcode": "LAGNP015GRYBLK1623",
+          "vdesc": "Laguna P015 Grey/Black - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 106.5,
+          "rrp": 255.99,
+          "vcode": "LAGNP015GRYBLK2029",
+          "vdesc": "Laguna P015 Grey/Black - 200 x 290"
+        }
+      ],
+      "pile": 2.0
+    },
+    {
+      "code": "LAGNP016BGEBRN",
+      "range": "Laguna",
+      "design": "P016",
+      "c1": "Beige",
+      "c2": "Brown",
+      "style": "Modern",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Hallway",
+      "wash": false,
+      "feats": [
+        "Soft Pile",
+        "Smooth Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.0,
+          "rrp": 52.99,
+          "vcode": "LAGNP016BGEBRN0815",
+          "vdesc": "Laguna P016 Beige/Brown - 080 x 150"
+        },
+        {
+          "size": "60 x 220",
+          "approx": "Runner",
+          "shape": "Oblong",
+          "ws": 24.5,
+          "rrp": 58.99,
+          "vcode": "LAGNP016BGEBRN6022",
+          "vdesc": "Laguna P016 Beige/Brown - 060 x 220"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 37.5,
+          "rrp": 89.99,
+          "vcode": "LAGNP016BGEBRN1217",
+          "vdesc": "Laguna P016 Beige/Brown - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 67.75,
+          "rrp": 162.99,
+          "vcode": "LAGNP016BGEBRN1623",
+          "vdesc": "Laguna P016 Beige/Brown - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 106.5,
+          "rrp": 255.99,
+          "vcode": "LAGNP016BGEBRN2029",
+          "vdesc": "Laguna P016 Beige/Brown - 200 x 290"
+        }
+      ],
+      "pile": 2.0
+    },
+    {
+      "code": "LAGNP016GRYBLK",
+      "range": "Laguna",
+      "design": "P016",
+      "c1": "Grey",
+      "c2": "Black",
+      "style": "Modern",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Hallway",
+      "wash": false,
+      "feats": [
+        "Soft Pile",
+        "Smooth Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.0,
+          "rrp": 52.99,
+          "vcode": "LAGNP016GRYBLK0815",
+          "vdesc": "Laguna P016 Grey/Black - 080 x 150"
+        },
+        {
+          "size": "60 x 220",
+          "approx": "Runner",
+          "shape": "Oblong",
+          "ws": 24.5,
+          "rrp": 58.99,
+          "vcode": "LAGNP016GRYBLK6022",
+          "vdesc": "Laguna P016 Grey/Black - 060 x 220"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 37.5,
+          "rrp": 89.99,
+          "vcode": "LAGNP016GRYBLK1217",
+          "vdesc": "Laguna P016 Grey/Black - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 67.75,
+          "rrp": 162.99,
+          "vcode": "LAGNP016GRYBLK1623",
+          "vdesc": "Laguna P016 Grey/Black - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 106.5,
+          "rrp": 255.99,
+          "vcode": "LAGNP016GRYBLK2029",
+          "vdesc": "Laguna P016 Grey/Black - 200 x 290"
+        }
+      ],
+      "pile": 2.0
+    },
+    {
+      "code": "LAGNP017BGEBRN",
+      "range": "Laguna",
+      "design": "P017",
+      "c1": "Beige",
+      "c2": "Brown",
+      "style": "Modern",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Hallway",
+      "wash": false,
+      "feats": [
+        "Soft Pile",
+        "Smooth Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.0,
+          "rrp": 52.99,
+          "vcode": "LAGNP017BGEBRN0815",
+          "vdesc": "Laguna P017 Beige/Brown - 080 x 150"
+        },
+        {
+          "size": "60 x 220",
+          "approx": "Runner",
+          "shape": "Oblong",
+          "ws": 24.5,
+          "rrp": 58.99,
+          "vcode": "LAGNP017BGEBRN6022",
+          "vdesc": "Laguna P017 Beige/Brown - 060 x 220"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 37.5,
+          "rrp": 89.99,
+          "vcode": "LAGNP017BGEBRN1217",
+          "vdesc": "Laguna P017 Beige/Brown - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 67.75,
+          "rrp": 162.99,
+          "vcode": "LAGNP017BGEBRN1623",
+          "vdesc": "Laguna P017 Beige/Brown - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 106.5,
+          "rrp": 255.99,
+          "vcode": "LAGNP017BGEBRN2029",
+          "vdesc": "Laguna P017 Beige/Brown - 200 x 290"
+        }
+      ],
+      "pile": 2.0
+    },
+    {
+      "code": "LAGNP017GRYBGE",
+      "range": "Laguna",
+      "design": "P017",
+      "c1": "Grey",
+      "c2": "Beige",
+      "style": "Modern",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Hallway",
+      "wash": false,
+      "feats": [
+        "Soft Pile",
+        "Smooth Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.0,
+          "rrp": 52.99,
+          "vcode": "LAGNP017GRYBGE0815",
+          "vdesc": "Laguna P017 Grey/Beige - 080 x 150"
+        },
+        {
+          "size": "60 x 220",
+          "approx": "Runner",
+          "shape": "Oblong",
+          "ws": 24.5,
+          "rrp": 58.99,
+          "vcode": "LAGNP017GRYBGE6022",
+          "vdesc": "Laguna P017 Grey/Beige - 060 x 220"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 37.5,
+          "rrp": 89.99,
+          "vcode": "LAGNP017GRYBGE1217",
+          "vdesc": "Laguna P017 Grey/Beige - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 67.75,
+          "rrp": 162.99,
+          "vcode": "LAGNP017GRYBGE1623",
+          "vdesc": "Laguna P017 Grey/Beige - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 106.5,
+          "rrp": 255.99,
+          "vcode": "LAGNP017GRYBGE2029",
+          "vdesc": "Laguna P017 Grey/Beige - 200 x 290"
+        }
+      ],
+      "pile": 2.0
+    },
+    {
+      "code": "LAGNP017GRYBLK",
+      "range": "Laguna",
+      "design": "P017",
+      "c1": "Grey",
+      "c2": "Black",
+      "style": "Modern",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Hallway",
+      "wash": false,
+      "feats": [
+        "Soft Pile",
+        "Smooth Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.0,
+          "rrp": 52.99,
+          "vcode": "LAGNP017GRYBLK0815",
+          "vdesc": "Laguna P017 Grey/Black - 080 x 150"
+        },
+        {
+          "size": "60 x 220",
+          "approx": "Runner",
+          "shape": "Oblong",
+          "ws": 24.5,
+          "rrp": 58.99,
+          "vcode": "LAGNP017GRYBLK6022",
+          "vdesc": "Laguna P017 Grey/Black - 060 x 220"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 37.5,
+          "rrp": 89.99,
+          "vcode": "LAGNP017GRYBLK1217",
+          "vdesc": "Laguna P017 Grey/Black - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 67.75,
+          "rrp": 162.99,
+          "vcode": "LAGNP017GRYBLK1623",
+          "vdesc": "Laguna P017 Grey/Black - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 106.5,
+          "rrp": 255.99,
+          "vcode": "LAGNP017GRYBLK2029",
+          "vdesc": "Laguna P017 Grey/Black - 200 x 290"
+        }
+      ],
+      "pile": 2.0
+    },
+    {
+      "code": "LAGNP436BGEBRN",
+      "range": "Laguna",
+      "design": "P436",
+      "c1": "Beige",
+      "c2": "Brown",
+      "style": "Modern",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Hallway",
+      "wash": false,
+      "feats": [
+        "Soft Pile",
+        "Smooth Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.0,
+          "rrp": 52.99,
+          "vcode": "LAGNP436BGEBRN0815",
+          "vdesc": "Laguna P436 Beige/Brown - 080 x 150"
+        },
+        {
+          "size": "60 x 220",
+          "approx": "Runner",
+          "shape": "Oblong",
+          "ws": 24.5,
+          "rrp": 58.99,
+          "vcode": "LAGNP436BGEBRN6022",
+          "vdesc": "Laguna P436 Beige/Brown - 060 x 220"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 37.5,
+          "rrp": 89.99,
+          "vcode": "LAGNP436BGEBRN1217",
+          "vdesc": "Laguna P436 Beige/Brown - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 67.75,
+          "rrp": 162.99,
+          "vcode": "LAGNP436BGEBRN1623",
+          "vdesc": "Laguna P436 Beige/Brown - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 106.5,
+          "rrp": 255.99,
+          "vcode": "LAGNP436BGEBRN2029",
+          "vdesc": "Laguna P436 Beige/Brown - 200 x 290"
+        }
+      ],
+      "pile": 2.0
+    },
+    {
+      "code": "LAGNP436GRYBGE",
+      "range": "Laguna",
+      "design": "P436",
+      "c1": "Grey",
+      "c2": "Beige",
+      "style": "Modern",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Hallway",
+      "wash": false,
+      "feats": [
+        "Soft Pile",
+        "Smooth Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.0,
+          "rrp": 52.99,
+          "vcode": "LAGNP436GRYBGE0815",
+          "vdesc": "Laguna P436 Grey/Beige - 080 x 150"
+        },
+        {
+          "size": "60 x 220",
+          "approx": "Runner",
+          "shape": "Oblong",
+          "ws": 24.5,
+          "rrp": 58.99,
+          "vcode": "LAGNP436GRYBGE6022",
+          "vdesc": "Laguna P436 Grey/Beige - 060 x 220"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 37.5,
+          "rrp": 89.99,
+          "vcode": "LAGNP436GRYBGE1217",
+          "vdesc": "Laguna P436 Grey/Beige - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 67.75,
+          "rrp": 162.99,
+          "vcode": "LAGNP436GRYBGE1623",
+          "vdesc": "Laguna P436 Grey/Beige - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 106.5,
+          "rrp": 255.99,
+          "vcode": "LAGNP436GRYBGE2029",
+          "vdesc": "Laguna P436 Grey/Beige - 200 x 290"
+        }
+      ],
+      "pile": 2.0
+    },
+    {
+      "code": "LAGNP436GRYBLK",
+      "range": "Laguna",
+      "design": "P436",
+      "c1": "Grey",
+      "c2": "Black",
+      "style": "Modern",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Hallway",
+      "wash": false,
+      "feats": [
+        "Soft Pile",
+        "Smooth Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "80 x 150",
+          "approx": "Small",
+          "shape": "Oblong",
+          "ws": 22.0,
+          "rrp": 52.99,
+          "vcode": "LAGNP436GRYBLK0815",
+          "vdesc": "Laguna P436 Grey/Black - 080 x 150"
+        },
+        {
+          "size": "60 x 220",
+          "approx": "Runner",
+          "shape": "Oblong",
+          "ws": 24.5,
+          "rrp": 58.99,
+          "vcode": "LAGNP436GRYBLK6022",
+          "vdesc": "Laguna P436 Grey/Black - 060 x 220"
+        },
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 37.5,
+          "rrp": 89.99,
+          "vcode": "LAGNP436GRYBLK1217",
+          "vdesc": "Laguna P436 Grey/Black - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 67.75,
+          "rrp": 162.99,
+          "vcode": "LAGNP436GRYBLK1623",
+          "vdesc": "Laguna P436 Grey/Black - 160 x 230"
+        },
+        {
+          "size": "200 x 290",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 106.5,
+          "rrp": 255.99,
+          "vcode": "LAGNP436GRYBLK2029",
+          "vdesc": "Laguna P436 Grey/Black - 200 x 290"
+        }
+      ],
+      "pile": 2.0
+    },
+    {
+      "code": "NOVA3368MLT",
+      "range": "Nova",
+      "design": "3368",
+      "c1": "Multi",
+      "c2": null,
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "High Density Weave",
+        "Multi Textured Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 56.5,
+          "rrp": 135.99,
+          "vcode": "NOVA3368MLT1217",
+          "vdesc": "Nova 3368 Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 101.75,
+          "rrp": 244.99,
+          "vcode": "NOVA3368MLT1623",
+          "vdesc": "Nova 3368 Multi - 160 x 235"
+        }
+      ],
+      "pile": 0.7
+    },
+    {
+      "code": "NOVA3370MLT",
+      "range": "Nova",
+      "design": "3370",
+      "c1": "Multi",
+      "c2": null,
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "High Density Weave",
+        "Multi Textured Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 56.5,
+          "rrp": 135.99,
+          "vcode": "NOVA3370MLT1217",
+          "vdesc": "Nova 3370 Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 101.75,
+          "rrp": 244.99,
+          "vcode": "NOVA3370MLT1623",
+          "vdesc": "Nova 3370 Multi - 160 x 235"
+        }
+      ],
+      "pile": 0.7
+    },
+    {
+      "code": "NOVA3371BLUGRY",
+      "range": "Nova",
+      "design": "3371",
+      "c1": "Blue",
+      "c2": "Grey",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "High Density Weave",
+        "Multi Textured Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 56.5,
+          "rrp": 135.99,
+          "vcode": "NOVA3371BLUGRY1217",
+          "vdesc": "Nova 3371 Blue/Grey - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 101.75,
+          "rrp": 244.99,
+          "vcode": "NOVA3371BLUGRY1623",
+          "vdesc": "Nova 3371 Blue/Grey - 160 x 235"
+        }
+      ],
+      "pile": 0.7
+    },
+    {
+      "code": "NOVA3372MLT",
+      "range": "Nova",
+      "design": "3372",
+      "c1": "Multi",
+      "c2": null,
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "High Density Weave",
+        "Multi Textured Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 56.5,
+          "rrp": 135.99,
+          "vcode": "NOVA3372MLT1217",
+          "vdesc": "Nova 3372 Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 101.75,
+          "rrp": 244.99,
+          "vcode": "NOVA3372MLT1623",
+          "vdesc": "Nova 3372 Multi - 160 x 235"
+        }
+      ],
+      "pile": 0.7
+    },
+    {
+      "code": "NOVA3373CRMBLU",
+      "range": "Nova",
+      "design": "3373",
+      "c1": "Cream",
+      "c2": "Blue",
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "High Density Weave",
+        "Multi Textured Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 56.5,
+          "rrp": 135.99,
+          "vcode": "NOVA3373CRMBLU1217",
+          "vdesc": "Nova 3373 Cream/Blue - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 101.75,
+          "rrp": 244.99,
+          "vcode": "NOVA3373CRMBLU1623",
+          "vdesc": "Nova 3373 Cream/Blue - 160 x 235"
+        }
+      ],
+      "pile": 0.7
+    },
+    {
+      "code": "NOVA3385MLT",
+      "range": "Nova",
+      "design": "3385",
+      "c1": "Multi",
+      "c2": null,
+      "style": "Modern Abstract",
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "High Density Weave",
+        "Multi Textured Pile",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 56.5,
+          "rrp": 135.99,
+          "vcode": "NOVA3385MLT1217",
+          "vdesc": "Nova 3385 Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 101.75,
+          "rrp": 244.99,
+          "vcode": "NOVA3385MLT1623",
+          "vdesc": "Nova 3385 Multi - 160 x 235"
+        }
+      ],
+      "pile": 0.7
+    },
+    {
+      "code": "QRTZJ050IVYBLU",
+      "range": "Quartz",
+      "design": "J050",
+      "c1": "Ivory",
+      "c2": "Blue",
+      "style": "Traditional",
+      "construction": "Machine Woven 100% Wool",
+      "m1": "Wool",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "Flat Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 180",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 57.25,
+          "rrp": 137.99,
+          "vcode": "QRTZJ050IVYBLU1217",
+          "vdesc": "Quartz J050 Ivory/Blue - 120 x 180"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 99.5,
+          "rrp": 238.99,
+          "vcode": "QRTZJ050IVYBLU1623",
+          "vdesc": "Quartz J050 Ivory/Blue - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 150.75,
+          "rrp": 361.99,
+          "vcode": "QRTZJ050IVYBLU2028",
+          "vdesc": "Quartz J050 Ivory/Blue - 200 x 285"
+        }
+      ],
+      "pile": 0.0
+    },
+    {
+      "code": "QRTZS090REDCRM",
+      "range": "Quartz",
+      "design": "S090",
+      "c1": "Red",
+      "c2": "Cream",
+      "style": "Traditional",
+      "construction": "Machine Woven 100% Wool",
+      "m1": "Wool",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "Flat Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 57.25,
+          "rrp": 137.99,
+          "vcode": "QRTZS090REDCRM1217",
+          "vdesc": "Quartz S090 Red/Cream - 120 x 180"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 99.5,
+          "rrp": 238.99,
+          "vcode": "QRTZS090REDCRM1623",
+          "vdesc": "Quartz S090 Red/Cream - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 150.75,
+          "rrp": 361.99,
+          "vcode": "QRTZS090REDCRM2028",
+          "vdesc": "Quartz S090 Red/Cream - 200 x 285"
+        }
+      ],
+      "pile": 0.0
+    },
+    {
+      "code": "QRTZS091CRMRST",
+      "range": "Quartz",
+      "design": "S091",
+      "c1": "Cream",
+      "c2": "Rust",
+      "style": "Traditional",
+      "construction": "Machine Woven 100% Wool",
+      "m1": "Wool",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "Flat Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 180",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 57.25,
+          "rrp": 137.99,
+          "vcode": "QRTZS091CRMRST1217",
+          "vdesc": "Quartz S091 Cream/Rust - 120 x 180"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 99.5,
+          "rrp": 238.99,
+          "vcode": "QRTZS091CRMRST1623",
+          "vdesc": "Quartz S091 Cream/Rust - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 150.75,
+          "rrp": 361.99,
+          "vcode": "QRTZS091CRMRST2028",
+          "vdesc": "Quartz S091 Cream/Rust - 200 x 285"
+        }
+      ],
+      "pile": 0.0
+    },
+    {
+      "code": "QRTZX054RSTBLU",
+      "range": "Quartz",
+      "design": "X054",
+      "c1": "Rust",
+      "c2": "Blue",
+      "style": "Traditional",
+      "construction": "Machine Woven 100% Wool",
+      "m1": "Wool",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "Flat Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 180",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 57.25,
+          "rrp": 137.99,
+          "vcode": "QRTZX054RSTBLU1217",
+          "vdesc": "Quartz X054 Rust/Blue - 120 x 180"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 99.5,
+          "rrp": 238.99,
+          "vcode": "QRTZX054RSTBLU1623",
+          "vdesc": "Quartz X054 Rust/Blue - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 150.75,
+          "rrp": 361.99,
+          "vcode": "QRTZX054RSTBLU2028",
+          "vdesc": "Quartz X054 Rust/Blue - 200 x 285"
+        }
+      ],
+      "pile": 0.0
+    },
+    {
+      "code": "QRTZX093BLUMLT",
+      "range": "Quartz",
+      "design": "X093",
+      "c1": "Blue",
+      "c2": "Multi",
+      "style": "Traditional",
+      "construction": "Machine Woven 100% Wool",
+      "m1": "Wool",
+      "m2": null,
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "Flat Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 57.25,
+          "rrp": 137.99,
+          "vcode": "QRTZX093BLUMLT1217",
+          "vdesc": "Quartz X093 Blue/Multi - 120 x 180"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 99.5,
+          "rrp": 238.99,
+          "vcode": "QRTZX093BLUMLT1623",
+          "vdesc": "Quartz X093 Blue/Multi - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 150.75,
+          "rrp": 361.99,
+          "vcode": "QRTZX093BLUMLT2028",
+          "vdesc": "Quartz X093 Blue/Multi - 200 x 285"
+        }
+      ],
+      "pile": 0.0
+    },
+    {
+      "code": "SUZN0093CRMMLT",
+      "range": "Suzani",
+      "design": "0093",
+      "c1": "Cream",
+      "c2": "Multi",
+      "style": "Traditional",
+      "construction": "Machine Woven 80% Wool 20% Polyamide",
+      "m1": "Wool",
+      "m2": "Polyamide",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "High Density Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 105.25,
+          "rrp": 252.99,
+          "vcode": "SUZN0093CRMMLT1217",
+          "vdesc": "Suzani 0093 Cream/Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 189.75,
+          "rrp": 455.99,
+          "vcode": "SUZN0093CRMMLT1623",
+          "vdesc": "Suzani 0093 Cream/Multi - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 293.75,
+          "rrp": 704.99,
+          "vcode": "SUZN0093CRMMLT2028",
+          "vdesc": "Suzani 0093 Cream/Multi - 200 x 285"
+        }
+      ],
+      "pile": 0.6
+    },
+    {
+      "code": "SUZN0093STNMLT",
+      "range": "Suzani",
+      "design": "0093",
+      "c1": "Stone",
+      "c2": "Multi",
+      "style": "Traditional",
+      "construction": "Machine Woven 80% Wool 20% Polyamide",
+      "m1": "Wool",
+      "m2": "Polyamide",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "High Density Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 105.25,
+          "rrp": 252.99,
+          "vcode": "SUZN0093STNMLT1217",
+          "vdesc": "Suzani 0093 Stone/Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 189.75,
+          "rrp": 455.99,
+          "vcode": "SUZN0093STNMLT1623",
+          "vdesc": "Suzani 0093 Stone/Multi - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 293.75,
+          "rrp": 704.99,
+          "vcode": "SUZN0093STNMLT2028",
+          "vdesc": "Suzani 0093 Stone/Multi - 200 x 285"
+        }
+      ],
+      "pile": 0.6
+    },
+    {
+      "code": "SUZN1002GRYMLT",
+      "range": "Suzani",
+      "design": "1002",
+      "c1": "Grey",
+      "c2": "Multi",
+      "style": "Traditional",
+      "construction": "Machine Woven 80% Wool 20% Polyamide",
+      "m1": "Wool",
+      "m2": "Polyamide",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "High Density Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 105.25,
+          "rrp": 252.99,
+          "vcode": "SUZN1002GRYMLT1217",
+          "vdesc": "Suzani 1002 Grey/Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 189.75,
+          "rrp": 455.99,
+          "vcode": "SUZN1002GRYMLT1623",
+          "vdesc": "Suzani 1002 Grey/Multi - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 293.75,
+          "rrp": 704.99,
+          "vcode": "SUZN1002GRYMLT2028",
+          "vdesc": "Suzani 1002 Grey/Multi - 200 x 285"
+        }
+      ],
+      "pile": 0.6
+    },
+    {
+      "code": "SUZN1002SLVMLT",
+      "range": "Suzani",
+      "design": "1002",
+      "c1": "Silver",
+      "c2": "Multi",
+      "style": "Traditional",
+      "construction": "Machine Woven 80% Wool 20% Polyamide",
+      "m1": "Wool",
+      "m2": "Polyamide",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "High Density Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 105.25,
+          "rrp": 252.99,
+          "vcode": "SUZN1002SLVMLT1217",
+          "vdesc": "Suzani 1002 Silver/Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 189.75,
+          "rrp": 455.99,
+          "vcode": "SUZN1002SLVMLT1623",
+          "vdesc": "Suzani 1002 Silver/Multi - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 293.75,
+          "rrp": 704.99,
+          "vcode": "SUZN1002SLVMLT2028",
+          "vdesc": "Suzani 1002 Silver/Multi - 200 x 285"
+        }
+      ],
+      "pile": 0.6
+    },
+    {
+      "code": "SUZN5506BLKMLT",
+      "range": "Suzani",
+      "design": "5506",
+      "c1": "Black",
+      "c2": "Multi",
+      "style": "Traditional",
+      "construction": "Machine Woven 80% Wool 20% Polyamide",
+      "m1": "Wool",
+      "m2": "Polyamide",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "High Density Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 105.25,
+          "rrp": 252.99,
+          "vcode": "SUZN5506BLKMLT1217",
+          "vdesc": "Suzani 5506 Black/Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 189.75,
+          "rrp": 455.99,
+          "vcode": "SUZN5506BLKMLT1623",
+          "vdesc": "Suzani 5506 Black/Multi - 160 x 235"
+        }
+      ],
+      "pile": 0.6
+    },
+    {
+      "code": "SUZN5506SLVMLT",
+      "range": "Suzani",
+      "design": "5506",
+      "c1": "Silver",
+      "c2": "Multi",
+      "style": "Traditional",
+      "construction": "Machine Woven 80% Wool 20% Polyamide",
+      "m1": "Wool",
+      "m2": "Polyamide",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "High Density Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 105.25,
+          "rrp": 252.99,
+          "vcode": "SUZN5506SLVMLT1217",
+          "vdesc": "Suzani 5506 Silver/Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 230",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 189.75,
+          "rrp": 455.99,
+          "vcode": "SUZN5506SLVMLT1623",
+          "vdesc": "Suzani 5506 Silver/Multi - 160 x 235"
+        }
+      ],
+      "pile": 0.6
+    },
+    {
+      "code": "VESP3731GRYCHA",
+      "range": "Vesper",
+      "design": "3731",
+      "c1": "Grey",
+      "c2": "Charcoal",
+      "style": "Traditional",
+      "construction": "Machine Woven 80% Wool 20% Polyamide",
+      "m1": "Wool",
+      "m2": "Polyamide",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "High Density Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 68.75,
+          "rrp": 164.99,
+          "vcode": "VESP3731GRYCHA1217",
+          "vdesc": "Vesper 3731 Grey/Charcoal - 120 x 170"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 126.75,
+          "rrp": 304.99,
+          "vcode": "VESP3731GRYCHA1623",
+          "vdesc": "Vesper 3731 Grey/Charcoal - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 192.0,
+          "rrp": 460.99,
+          "vcode": "VESP3731GRYCHA2028",
+          "vdesc": "Vesper 3731 Grey/Charcoal - 200 x 285"
+        }
+      ],
+      "pile": 0.2
+    },
+    {
+      "code": "VESP3747RSTTEA",
+      "range": "Vesper",
+      "design": "3747",
+      "c1": "Rust",
+      "c2": "Teal",
+      "style": "Traditional",
+      "construction": "Machine Woven 80% Wool 20% Polyamide",
+      "m1": "Wool",
+      "m2": "Polyamide",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "High Density Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 68.75,
+          "rrp": 164.99,
+          "vcode": "VESP3747RSTTEA1217",
+          "vdesc": "Vesper 3747 Rust/Teal - 120 x 170"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 126.75,
+          "rrp": 304.99,
+          "vcode": "VESP3747RSTTEA1623",
+          "vdesc": "Vesper 3747 Rust/Teal - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 192.0,
+          "rrp": 460.99,
+          "vcode": "VESP3747RSTTEA2028",
+          "vdesc": "Vesper 3747 Rust/Teal - 200 x 285"
+        }
+      ],
+      "pile": 0.2
+    },
+    {
+      "code": "VESP3750BRNBLK",
+      "range": "Vesper",
+      "design": "3750",
+      "c1": "Brown",
+      "c2": "Black",
+      "style": "Traditional",
+      "construction": "Machine Woven 80% Wool 20% Polyamide",
+      "m1": "Wool",
+      "m2": "Polyamide",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "High Density Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 68.75,
+          "rrp": 164.99,
+          "vcode": "VESP3750BRNBLK1217",
+          "vdesc": "Vesper 3750 Brown/Black - 120 x 170"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 126.75,
+          "rrp": 304.99,
+          "vcode": "VESP3750BRNBLK1623",
+          "vdesc": "Vesper 3750 Brown/Black - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 192.0,
+          "rrp": 460.99,
+          "vcode": "VESP3750BRNBLK2028",
+          "vdesc": "Vesper 3750 Brown/Black - 200 x 285"
+        }
+      ],
+      "pile": 0.2
+    },
+    {
+      "code": "VESP3753CRMMLT",
+      "range": "Vesper",
+      "design": "3753",
+      "c1": "Cream",
+      "c2": "Multi",
+      "style": "Traditional",
+      "construction": "Machine Woven 80% Wool 20% Polyamide",
+      "m1": "Wool",
+      "m2": "Polyamide",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "High Density Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 68.75,
+          "rrp": 164.99,
+          "vcode": "VESP3753CRMMLT1217",
+          "vdesc": "Vesper 3753 Cream/Multi - 120 x 170"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 126.75,
+          "rrp": 304.99,
+          "vcode": "VESP3753CRMMLT1623",
+          "vdesc": "Vesper 3753 Cream/Multi - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 192.0,
+          "rrp": 460.99,
+          "vcode": "VESP3753CRMMLT2028",
+          "vdesc": "Vesper 3753 Cream/Multi - 200 x 285"
+        }
+      ],
+      "pile": 0.2
+    },
+    {
+      "code": "VESP3754NAVGLD",
+      "range": "Vesper",
+      "design": "3754",
+      "c1": "Navy",
+      "c2": "Gold",
+      "style": "Traditional",
+      "construction": "Machine Woven 80% Wool 20% Polyamide",
+      "m1": "Wool",
+      "m2": "Polyamide",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "High Density Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 68.75,
+          "rrp": 164.99,
+          "vcode": "VESP3754NAVGLD1217",
+          "vdesc": "Vesper 3754 Navy/Gold - 120 x 170"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 126.75,
+          "rrp": 304.99,
+          "vcode": "VESP3754NAVGLD1623",
+          "vdesc": "Vesper 3754 Navy/Gold - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 192.0,
+          "rrp": 460.99,
+          "vcode": "VESP3754NAVGLD2028",
+          "vdesc": "Vesper 3754 Navy/Gold - 200 x 285"
+        }
+      ],
+      "pile": 0.2
+    },
+    {
+      "code": "VESP3760BLKWHT",
+      "range": "Vesper",
+      "design": "3760",
+      "c1": "Black",
+      "c2": "White",
+      "style": "Traditional",
+      "construction": "Machine Woven 80% Wool 20% Polyamide",
+      "m1": "Wool",
+      "m2": "Polyamide",
+      "room": "Living Room",
+      "wash": false,
+      "feats": [
+        "Natural Materials",
+        "High Density Weave",
+        "Hard Wearing"
+      ],
+      "sizes": [
+        {
+          "size": "120 x 170",
+          "approx": "Medium",
+          "shape": "Oblong",
+          "ws": 68.75,
+          "rrp": 164.99,
+          "vcode": "VESP3760BLKWHT1217",
+          "vdesc": "Vesper 3760 Black/White - 120 x 170"
+        },
+        {
+          "size": "160 x 235",
+          "approx": "Large",
+          "shape": "Oblong",
+          "ws": 126.75,
+          "rrp": 304.99,
+          "vcode": "VESP3760BLKWHT1623",
+          "vdesc": "Vesper 3760 Black/White - 160 x 235"
+        },
+        {
+          "size": "200 x 285",
+          "approx": "Extra Large",
+          "shape": "Oblong",
+          "ws": 192.0,
+          "rrp": 460.99,
+          "vcode": "VESP3760BLKWHT2028",
+          "vdesc": "Vesper 3760 Black/White - 200 x 285"
+        }
+      ],
+      "pile": 0.2
+    }
+  ],
+  "ranges": [
+    {
+      "name": "Apollo",
+      "colourways": 18,
+      "variants": 72,
+      "designs": [
+        "CK406",
+        "CK417",
+        "HE052",
+        "HF126"
+      ],
+      "styles": [
+        "Modern Abstract",
+        "Modern Geometric"
+      ],
+      "construction": "Machine Woven High Pile 100% Polypropylene Low Pile 100% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "wash": false,
+      "from": 22.75,
+      "feats": [
+        "Stain Resistant",
+        "Soft Pile",
+        "Hard Wearing"
+      ]
+    },
+    {
+      "name": "Arcadia",
+      "colourways": 3,
+      "variants": 9,
+      "designs": [
+        "1075W",
+        "190X",
+        "28Z"
+      ],
+      "styles": [
+        "Traditional"
+      ],
+      "construction": "Machine Woven 100% Wool",
+      "m1": "Wool",
+      "m2": null,
+      "wash": false,
+      "from": 48.25,
+      "feats": [
+        "Natural Materials",
+        "Flat Weave",
+        "Hard Wearing"
+      ]
+    },
+    {
+      "name": "Bohemia",
+      "colourways": 10,
+      "variants": 40,
+      "designs": [
+        "4019",
+        "9070"
+      ],
+      "styles": [
+        "Floral",
+        "Traditional"
+      ],
+      "construction": "Transfer Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "wash": true,
+      "from": 22.56,
+      "feats": [
+        "Washable",
+        "Soft Pile",
+        "Stain Resistant"
+      ]
+    },
+    {
+      "name": "Brixton",
+      "colourways": 6,
+      "variants": 18,
+      "designs": [
+        "R52A",
+        "R52B",
+        "R52C",
+        "R66A",
+        "R66B",
+        "R66C"
+      ],
+      "styles": [
+        "Modern Abstract"
+      ],
+      "construction": "Machine Woven 50% Polypropylene 50% Polyester",
+      "m1": "Polypropylene",
+      "m2": "Polyester",
+      "wash": false,
+      "from": 45.75,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ]
+    },
+    {
+      "name": "Camden",
+      "colourways": 4,
+      "variants": 12,
+      "designs": [
+        "P48A"
+      ],
+      "styles": [
+        "Modern Linear"
+      ],
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "wash": false,
+      "from": 52.75,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ]
+    },
+    {
+      "name": "Drift",
+      "colourways": 6,
+      "variants": 18,
+      "designs": [
+        "3126"
+      ],
+      "styles": [
+        "Modern Abstract"
+      ],
+      "construction": "Machine Woven 100% Polypropylene",
+      "m1": "Polypropylene",
+      "m2": null,
+      "wash": false,
+      "from": 24.0,
+      "feats": [
+        "Hard Wearing",
+        "Stain Resistant",
+        "Soft Pile"
+      ]
+    },
+    {
+      "name": "Havana",
+      "colourways": 6,
+      "variants": 12,
+      "designs": [
+        "4024",
+        "8002",
+        "8004",
+        "8006",
+        "8007",
+        "8010"
+      ],
+      "styles": [
+        "Modern Geometric"
+      ],
+      "construction": "Machine Woven 100% Polypropylene",
+      "m1": "Polypropylene",
+      "m2": null,
+      "wash": false,
+      "from": 35.75,
+      "feats": [
+        "Textured Pile",
+        "Soft Pile",
+        "Stain Resistant"
+      ]
+    },
+    {
+      "name": "Heirloom",
+      "colourways": 5,
+      "variants": 15,
+      "designs": [
+        "0452",
+        "0709",
+        "1077",
+        "1227"
+      ],
+      "styles": [
+        "Traditional"
+      ],
+      "construction": "Digitally Printed Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "wash": true,
+      "from": 33.35,
+      "feats": [
+        "Washable",
+        "Digitally Printed",
+        "Flat Weave"
+      ]
+    },
+    {
+      "name": "Kingsley",
+      "colourways": 4,
+      "variants": 12,
+      "designs": [
+        "P63A",
+        "P66A"
+      ],
+      "styles": [
+        "Floral"
+      ],
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "wash": false,
+      "from": 52.75,
+      "feats": [
+        "Easy Clean",
+        "Hard Wearing",
+        "Stain Resistant"
+      ]
+    },
+    {
+      "name": "Laguna",
+      "colourways": 10,
+      "variants": 50,
+      "designs": [
+        "P015",
+        "P016",
+        "P017",
+        "P436"
+      ],
+      "styles": [
+        "Modern"
+      ],
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "wash": false,
+      "from": 22.0,
+      "feats": [
+        "Soft Pile",
+        "Smooth Pile",
+        "Hard Wearing"
+      ]
+    },
+    {
+      "name": "Nova",
+      "colourways": 6,
+      "variants": 12,
+      "designs": [
+        "3368",
+        "3370",
+        "3371",
+        "3372",
+        "3373",
+        "3385"
+      ],
+      "styles": [
+        "Modern Abstract"
+      ],
+      "construction": "Machine Woven 100% Polyester",
+      "m1": "Polyester",
+      "m2": null,
+      "wash": false,
+      "from": 56.5,
+      "feats": [
+        "High Density Weave",
+        "Multi Textured Pile",
+        "Hard Wearing"
+      ]
+    },
+    {
+      "name": "Quartz",
+      "colourways": 5,
+      "variants": 15,
+      "designs": [
+        "J050",
+        "S090",
+        "S091",
+        "X054",
+        "X093"
+      ],
+      "styles": [
+        "Traditional"
+      ],
+      "construction": "Machine Woven 100% Wool",
+      "m1": "Wool",
+      "m2": null,
+      "wash": false,
+      "from": 57.25,
+      "feats": [
+        "Natural Materials",
+        "Flat Weave",
+        "Hard Wearing"
+      ]
+    },
+    {
+      "name": "Suzani",
+      "colourways": 6,
+      "variants": 16,
+      "designs": [
+        "0093",
+        "1002",
+        "5506"
+      ],
+      "styles": [
+        "Traditional"
+      ],
+      "construction": "Machine Woven 80% Wool 20% Polyamide",
+      "m1": "Wool",
+      "m2": "Polyamide",
+      "wash": false,
+      "from": 105.25,
+      "feats": [
+        "Natural Materials",
+        "High Density Weave",
+        "Hard Wearing"
+      ]
+    },
+    {
+      "name": "Vesper",
+      "colourways": 6,
+      "variants": 18,
+      "designs": [
+        "3731",
+        "3747",
+        "3750",
+        "3753",
+        "3754",
+        "3760"
+      ],
+      "styles": [
+        "Traditional"
+      ],
+      "construction": "Machine Woven 80% Wool 20% Polyamide",
+      "m1": "Wool",
+      "m2": "Polyamide",
+      "wash": false,
+      "from": 68.75,
+      "feats": [
+        "Natural Materials",
+        "High Density Weave",
+        "Hard Wearing"
+      ]
+    }
+  ]
+}

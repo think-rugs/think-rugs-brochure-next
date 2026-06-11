@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# next.js build output
+.next/
+out/
+
+# environment / secrets
+.env
+.env.*
+!.env.example
+
+# logs
+*.log
+npm-debug.log*
+
+# os files
+.DS_Store
+
+# editor
+.vscode/
+.idea/
