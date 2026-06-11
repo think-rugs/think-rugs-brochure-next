@@ -61,20 +61,22 @@ export default function Rail({
         Download full product info (Excel)
       </a>
 
-      <h3>Ranges</h3>
-      <nav className="rlinks" aria-label="Ranges">
-        {ranges.map((rm) => {
-          const vis = rangeVisCounts[rm.name] || 0;
-          const cls = ['rlink',
-            activeRange === rm.name ? 'active' : '',
-            vis === 0 ? 'dimmed' : ''].filter(Boolean).join(' ');
-          return (
-            <a key={rm.name} href={`#r-${rm.name}`} className={cls}>
-              <span>{rm.name}</span><small className="rcount">{vis}</small>
-            </a>
-          );
-        })}
-      </nav>
+      <div className="rail-ranges">
+        <h3>Ranges</h3>
+        <nav className="rlinks" aria-label="Ranges">
+          {ranges.map((rm) => {
+            const vis = rangeVisCounts[rm.name] || 0;
+            const cls = ['rlink',
+              activeRange === rm.name ? 'active' : '',
+              vis === 0 ? 'dimmed' : ''].filter(Boolean).join(' ');
+            return (
+              <a key={rm.name} href={`#r-${rm.name}`} className={cls}>
+                <span>{rm.name}</span><small className="rcount">{vis}</small>
+              </a>
+            );
+          })}
+        </nav>
+      </div>
     </aside>
   );
 }
