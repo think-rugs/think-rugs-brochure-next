@@ -20,7 +20,7 @@ A single page brochure with:
 
 ## Setup
 
-Node 18.18 or newer is required (any current LTS is fine).
+Node 20.9 or newer is required (the Next.js 16 minimum; any current LTS is fine).
 
 ```
 npm install
